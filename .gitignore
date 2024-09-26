@@ -1,0 +1,12 @@
+# Ignorar a pasta da virtual environment
+apivenv/
+
+# Ignorar arquivos compilados Python
+__pycache__/
+*.pyc
+
+# Ignorar configurações de IDEs comuns
+.vscode/
+.idea/
+# Ignorar arquivos de ambiente
+.env
